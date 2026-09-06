@@ -70,31 +70,6 @@ impact and providing actionable retention lists.
 5. Predictive Risk Model:**
 Built Attrition Risk Priority Score using Overtime, Job Satisfaction (1-2), Tenure <3 Yrs, No Promotion, Distance. Flagged **10 active employees** currently at High Risk.
 
----
- 📊 Dashboard Walkthrough
-
- 1. Attrition Overview - Corrected KPIs
-![Attrition Overview](readme_assets/Attrition_Overview_Corrected.png)
-
-2. Attrition by Tenure, Gender, Marital Status, Department
-![Page 2](readme_assets/page_2.png)
-![Page 3](readme_assets/page_3.png)
-
-3. Workforce, Salary & Performance Analysis
-![Page 4](readme_assets/page_4.png)
-![Page 5](readme_assets/page_5.png)
-![Page 6](readme_assets/page_6.png)
-
-4. Forecast & Drivers - Distance, Overtime, Age Group
-![Page 7](readme_assets/page_7.png)
-![Page 8](readme_assets/page_8.png)
-
-5. Storytelling - Why People Leave & Action Needed
-![Page 9](readme_assets/page_9.png)
-![Page 10](readme_assets/page_10.png)
-
----
-
 🛠️ Tech Stack
 - Tool:Power BI Desktop
 - Data Prep: Power Query (Data Cleaning, Merging)
