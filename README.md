@@ -1,5 +1,13 @@
 Ogul India Pvt Ltd - HR Attrition & Retention Analytics | Power BI
 
+1. KPI Overview
+<img width="1059" height="110" alt="KPI" src="https://github.com/user-attachments/assets/e40c2817-09de-4a5c-9401-a7647e85f773" />
+2. Reasons for Leaving
+<img width="977" height="317" alt="Reason for Leaving" src="https://github.com/user-attachments/assets/2067092f-4bb2-4922-adb9-a2693ae0e0af" />
+3. Average Salary Analysis
+<img width="775" height="456" alt="Avg salary for leaving" src="https://github.com/user-attachments/assets/1b36cfdb-98a9-4ca5-9f06-6f080619bd9b" />
+<img width="936" height="527" alt="Dash1" src="https://github.com/user-attachments/assets/2c60a20e-0933-43f2-99fc-77fb203acfc2" />
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![People Analytics](https://img.shields.io/badge/People%20Analytics-0F2C3E?style=for-the-badge)
