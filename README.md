@@ -1,26 +1,25 @@
 Ogul India Pvt Ltd - HR Attrition & Retention Analytics | Power BI
 
-# Ogul India Pvt Ltd - HR Attrition & Retention Analytics | Power BI
+📊 Dashboard Walkthrough
+<img width="1013" height="583" alt="Image" src="https://github.com/user-attachments/assets/ca46189a-0c2d-4696-b8af-948cc5f975b1" />
 
-## 📊 Dashboard Walkthrough
+<img width="1015" height="581" alt="Image" src="https://github.com/user-attachments/assets/bac355a0-f9b7-49c1-a980-0b47d9a540ff" />
 
-### 1. KPI Overview - Corrected (19% | 38 Left | ₹4.38 Cr Loss)
-<img width="1059" height="110" alt="KPI" src="https://github.com/user-attachments/assets/e40c2817-09de-4a5c-9401-a7647e85f773" />
+<img width="1018" height="582" alt="Image" src="https://github.com/user-attachments/assets/81dca6b9-298c-4847-954f-7da52f7c2682" />
 
-### 2. Reasons for Leaving
-<img width="977" height="317" alt="Reason for Leaving" src="https://github.com/user-attachments/assets/2067092f-4bb2-4922-adb9-a2693ae0e0af" />
+<img width="1018" height="582" alt="Image" src="https://github.com/user-attachments/assets/7e90341b-78c5-4f71-b84f-4e8a4e979b65" />
 
-### 3. Average Salary Analysis
-<img width="775" height="456" alt="Avg salary for leaving" src="https://github.com/user-attachments/assets/1b36cfdb-98a9-4ca5-9f06-6f080619bd9b" />
+<img width="1016" height="580" alt="Image" src="https://github.com/user-attachments/assets/0d0f205d-bed2-4108-b015-052cfd810561" />
 
-### 4. Full Dashboard View
-<img width="936" height="527" alt="Dash1" src="https://github.com/user-attachments/assets/2c60a20e-0933-43f2-99fc-77fb203acfc2" />
+<img width="1015" height="580" alt="Image" src="https://github.com/user-attachments/assets/af3c0292-5576-4ec1-9a4f-6fece5410fad" />
 
-### 5. Attrition by Department & Salary Loss (Corrected)
-<img width="1059" height="596" alt="Attrition Overview Corrected" src="PASTE_YOUR_NEW_LINK_HERE" />
+<img width="1015" height="583" alt="Image" src="https://github.com/user-attachments/assets/c64aa703-b87b-4309-bece-e43d2264fb98" />
 
-### 6. Forecast & Action Needed
-<img width="936" height="527" alt="Action Needed" src="PASTE_YOUR_NEW_LINK_HERE" />
+<img width="1015" height="581" alt="Image" src="https://github.com/user-attachments/assets/5b45c923-b2f0-4600-807c-c0617607ab48" />
+
+<img width="1015" height="579" alt="Image" src="https://github.com/user-attachments/assets/f080d7ed-6a73-4f7e-80f2-db84bebcd3cd" />
+
+<img width="1014" height="581" alt="Image" src="https://github.com/user-attachments/assets/04e994c7-136a-462c-89e0-1e8960456e61" />
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
